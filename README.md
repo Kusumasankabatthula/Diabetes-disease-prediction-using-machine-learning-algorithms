@@ -1,1 +1,2 @@
 # Diabetes-disease-prediction-using-machine-learning-algorithms
+Our project focuses on predicting diabetes using machine learning algorithms. We analyze patient data including demographics, clinical measurements, and lifestyle factors to develop accurate predictive models. By applying techniques like logistic regression, decision trees, and gradient boosting, we aim to identify individuals at risk of diabetes onset. Our goal is to contribute to early detection and personalized intervention strategies for better healthcare outcomes.
